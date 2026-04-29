@@ -2,7 +2,7 @@
 
 ## ✅ Build Status: SUCCESS
 
-Your yogtantra platform is ready for deployment!
+Your EYoga World platform is ready for deployment!
 
 ### 📦 Build Output
 - **Location**: `dist/` folder
@@ -88,4 +88,4 @@ If you encounter any issues:
 
 ---
 
-**Your yogtantra platform is production-ready! 🧘‍♀️**
+**Your EYoga World platform is production-ready! 🧘‍♀️**

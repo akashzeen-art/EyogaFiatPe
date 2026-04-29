@@ -126,7 +126,7 @@ export default function VideoPreloader({ isExiting = false, onLogoTransition, is
           }`}>
             <img
               src="/logo.png"
-              alt="Yogtantra Studio"
+              alt="EYoga World Studio"
               className="w-32 h-32 object-contain drop-shadow-2xl"
             />
           </div>

@@ -18,7 +18,7 @@ export default function Styles() {
   };
 
   useEffect(() => {
-    const hasSeenPreloader = localStorage.getItem("Yogtantra Studio_preloader_shown");
+    const hasSeenPreloader = localStorage.getItem("EYoga World Studio_preloader_shown");
     if (hasSeenPreloader) {
       setShowParticles(true);
     } else {

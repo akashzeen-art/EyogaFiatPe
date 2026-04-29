@@ -1,4 +1,4 @@
-# Deployment Guide for yogtantra Platform
+# Deployment Guide for EYoga World Platform
 
 ## Build for Production
 
