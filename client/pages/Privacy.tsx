@@ -18,7 +18,7 @@ export default function Privacy() {
             <div className="space-y-6 text-sm leading-relaxed text-white/90">
 
               <p>
-                This Privacy Policy describes how Alphamovil Digital Solution LLP ("we", "us", or "our") collects, uses, discloses, and protects your personal information when you visit or use <strong>https://EYoga World.com/</strong> (the "Site") or any of our services (collectively, the "Services").
+                This Privacy Policy describes how Alphamovil Digital Solution LLP ("we", "us", or "our") collects, uses, discloses, and protects your personal information when you visit or make a purchase from <strong>https://globalyoga.live/</strong> (the "Site") or use any of our services (collectively, the "Services").
               </p>
               <p>
                 By using our Services, you agree to the collection and use of information as outlined in this Privacy Policy. If you do not agree, please do not use the Services.
@@ -120,25 +120,7 @@ export default function Privacy() {
                 Our website may include links to third-party sites. We are not responsible for the privacy or security practices of these external platforms. Please review their privacy policies separately.
               </p>
 
-              {/* 9 */}
-              <h2 className="text-2xl font-bold text-white mt-8">9. Security and Retention</h2>
-              <p>
-                We take reasonable precautions to protect your personal information. However, no online transmission or storage is completely secure. We retain your information only as long as necessary for our business purposes or to meet legal requirements.
-              </p>
-
-              {/* 10 */}
-              <h2 className="text-2xl font-bold text-white mt-8">10. Disclaimer</h2>
-              <div className="bg-purple-500/20 border border-purple-400/30 rounded-xl p-5">
-                <p>
-                  The content provided on this platform, including all yoga classes, videos, and related materials, is intended for general fitness and wellness purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Users are advised to consult a qualified healthcare professional before starting any new exercise program, especially if they have any pre-existing medical conditions, injuries, or concerns.
-                </p>
-                <p className="mt-3">
-                  By participating in these classes, you acknowledge that you do so voluntarily and at your own risk. The platform and its instructors shall not be held responsible for any injuries, damages, or losses that may occur as a result of using this content. Individual results may vary.
-                </p>
-              </div>
-
-              {/* 11 */}
-              <h2 className="text-2xl font-bold text-white mt-8">11. Your Rights</h2>
+              <h2 className="text-2xl font-bold text-white mt-8">9. Your Rights</h2>
               <p>Depending on your jurisdiction, you may have the right to:</p>
               <ul className="list-disc pl-6 space-y-1 mt-2">
                 <li>Access and update your personal information</li>
@@ -147,15 +129,17 @@ export default function Privacy() {
                 <li>Restrict or object to certain data processing</li>
                 <li>Request data portability</li>
               </ul>
-              <p className="mt-4">To make any such request, please contact us at:</p>
-              <p className="mt-2">📧 <a href="mailto:bd@alphamovil.com" className="text-purple-400 hover:text-purple-300">bd@alphamovil.com</a></p>
-              <p>📍 Alphamovil Digital Solution LLP, Sector 54, Gurgaon, Haryana, 122011</p>
 
-              {/* 12 */}
-              <h2 className="text-2xl font-bold text-white mt-8">12. Updates to this Privacy Policy</h2>
-              <p>
-                We may update this Privacy Policy periodically to reflect changes in our practices or legal obligations. Updates will be posted on this page with the revised date.
-              </p>
+              <h2 className="text-2xl font-bold text-white mt-8">Governing Law and Jurisdiction</h2>
+              <p>These Terms shall be governed and interpreted in accordance with the laws of India. Any disputes arising out of or relating to the use of this website shall be subject to the exclusive jurisdiction of the courts located in Gurgaon, Haryana.</p>
+
+              <h2 className="text-2xl font-bold text-white mt-8">Contact Information</h2>
+              <p>To make any such request, or for privacy-related inquiries, please contact us:</p>
+              <ul className="list-disc pl-6 space-y-1 mt-2">
+                <li>Contact Number: 9667687077</li>
+                <li>Full Address: B-123, SUNCITY, SECTOR-54, Gurgaon, Haryana, 122011</li>
+                <li>Email ID: <a href="mailto:bd@alphamovil.com" className="text-purple-400 hover:text-purple-300">bd@alphamovil.com</a></li>
+              </ul>
 
             </div>
 
